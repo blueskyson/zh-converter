@@ -35,5 +35,5 @@ $ python zhc.py -st -ni "数组 (Array) 是置于连续的内存"
 數組 (Array) 是置於連續的內存
 ```
 
-繁簡字源：[fanjian](https://github.com/kfcd/fanjian)
+繁簡字源：[fanjian](https://github.com/kfcd/fanjian)  
 片語、繁簡用語詞源：[OpenCC](https://github.com/BYVoid/OpenCC)
