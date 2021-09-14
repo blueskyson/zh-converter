@@ -22,7 +22,9 @@ optional arguments:
 ```
 $ python zhc.py -ts "陣列 (Array) 是置於連續的記憶體"
 数组 (Array) 是置于连续的内存
+```
 
+```
 $ python zhc.py -ts -ni "陣列 (Array) 是置於連續的記憶體"
 阵列 (Array) 是置于连续的记忆体
 ```
@@ -32,7 +34,9 @@ $ python zhc.py -ts -ni "陣列 (Array) 是置於連續的記憶體"
 ```
 $ python zhc.py -st "数组 (Array) 是置于连续的内存"
 陣列 (Array) 是置於連續的記憶體
+```
 
+```
 $ python zhc.py -st -ni "数组 (Array) 是置于连续的内存"
 數組 (Array) 是置於連續的內存
 ```
